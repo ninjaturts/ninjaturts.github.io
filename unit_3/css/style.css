@@ -5,7 +5,7 @@
 	text-decoration: underline;
 }
 body {
-background-color: rgb(#a4f1c4);
+background-color: rgb(164,241,196);
 }
 
 h1 {
@@ -24,7 +24,9 @@ text-align: center;
 
 ul{
 align-content: center;
+list-style-type: none;
 }
 img {
-	align-content: center;
+	margin-left: auto;
+	margin-right: auto;
 }
