@@ -1,0 +1,29 @@
+#slogan {
+	color: black;
+	text-align: center;
+	font-weight: 800;
+}
+body {
+background-color: rgb(#a4f1c4);
+}
+
+h1 {
+color: #000000;
+font-weight: bold;
+text-decoration: underline;
+text-align: center;
+text-transform: uppercase;
+}
+
+p {
+font-weight: normal;
+color: #000000;
+text-align: center;
+}
+
+ul{
+text-align: center;
+}
+img {
+text-align: center;
+}
