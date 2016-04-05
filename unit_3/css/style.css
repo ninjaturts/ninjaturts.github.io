@@ -15,7 +15,9 @@ text-decoration: underline;
 text-align: center;
 text-transform: uppercase;
 }
-
+h2{font-weight: 400;
+font-family: sans-serif;
+font: "Times New Roman";}
 p {
 font-weight: normal;
 color: #000000;
