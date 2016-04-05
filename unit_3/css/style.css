@@ -6,6 +6,7 @@
 }
 body {
 background-color: rgb(164,241,196);
+border-style: double;
 }
 
 h1 {
