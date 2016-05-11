@@ -63,6 +63,16 @@ h3 {
   -webkit-background-clip: text;
   background-clip: text;
 }
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}
+
 p {
 font-weight: normal;
 color: #000000;
