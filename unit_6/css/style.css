@@ -80,12 +80,16 @@ font-family: 'Arapey', serif;
 	background-color: #e582a2;
 	border: 1px black solid;
 	padding: 20px;
+	float: left;
+	width: 50%;
 }
 
 #right {
 	background-color: #e55b88;
 	border: 1px black solid;
 	padding: 20px;
+	float: right;
+	width: 40%;
 }
 
 article {
